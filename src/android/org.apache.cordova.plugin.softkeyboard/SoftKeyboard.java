@@ -1,4 +1,4 @@
-package com.cordova.plugin.softkeyboard;
+package org.apache.cordova.plugin.softkeyboard;
 
 import org.json.JSONArray;
 
